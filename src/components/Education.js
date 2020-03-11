@@ -71,18 +71,18 @@ const Education = function(props) {
       </University>
 
       <University>
-        <UniLogo size={'40px'} src={HackerRankLogo}/>
+        <UniLogo size={'30px'} src={FreeCodeCampLogo}/>
         <UniInfo>
-          <UniTitle>HackerRank<br/></UniTitle>
-          <UniDesc>Python and SQL</UniDesc>
+          <UniTitle>freeCodeCamp<br/></UniTitle>
+          <UniDesc>React, Angular and Bash</UniDesc>
         </UniInfo>
       </University>
 
       <University>
-        <UniLogo size={'25px'} src={FreeCodeCampLogo}/>
+        <UniLogo size={'40px'} src={HackerRankLogo}/>
         <UniInfo>
-          <UniTitle>freeCodeCamp<br/></UniTitle>
-          <UniDesc>React, Angular and Bash</UniDesc>
+          <UniTitle>HackerRank<br/></UniTitle>
+          <UniDesc>Python and SQL</UniDesc>
         </UniInfo>
       </University>
 

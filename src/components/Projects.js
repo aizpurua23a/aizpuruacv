@@ -59,15 +59,15 @@ const Projects = function(props) {
       <VerticalCaption pos={'left'}>Projects</VerticalCaption>
       <ProjectsText>
         <Project marginBottom={'48px'}>
-          <a target='_balnk'><ProjectImage size={'70px'} src={clockLogo}/></a>
+          <a href="https://aizpurua23a.github.io/cloeck/" target='_balnk'><ProjectImage size={'70px'} src={clockLogo}/></a>
           <ProjectName marginTop={'16px'}> React-Redux Clock</ProjectName>
           <KeyPoints>
             <p>I grew up reading (and loving) sci-fi movies and books. That's why, when learning a new framework, I like to build stuff that, while not very useful, may be at least interesting.
             Features:</p>           
             <ul>
-              <li>React-Redux Front End</li>
+              <li>React-Redux <a href="https://github.com/aizpurua23a/cloeck">Front End</a></li>
               <li>npm/yarn package managers</li>
-              <li><a href="https://github.com/aizpurua23a/cloeck">Shannon </a>optimized clock-calendar!</li>
+              <li><a href="">Shannon </a>optimized clock-calendar!</li>
             </ul>
           </KeyPoints>
         </Project>
